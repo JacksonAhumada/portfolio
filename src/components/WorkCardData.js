@@ -19,7 +19,7 @@ const WorkCardData = [
     //put url of the project here.
     view: "project.url",
     //github url for project
-    source: "github.url",
+    source: "https://www.github.com/kelvinsinferno/Cherry-Picked",
   },
   {
     imgsrc: pro3,
